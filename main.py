@@ -1,4 +1,4 @@
-from function_file import *    
+from function_file import best_fit, line_graph, normal_curve   
     
 if __name__ == "__main__":
     
