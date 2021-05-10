@@ -85,6 +85,3 @@ def normal_curve(vline_yes=False, z=0, title=""):
     plt.savefig(f"{z}.png")
     plt.show()
     
-    
-    
-    
