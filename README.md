@@ -7,3 +7,7 @@ This analysis uses data from the last ten years of the English Premier League to
 To view the blog posts, please click the link below:
 
 jr12blog24816.wordpress.com
+
+Code for Part 1 is in main.py
+
+Code for Part 2 is in referee_analysis.py
