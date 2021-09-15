@@ -62,3 +62,5 @@ plt.savefig("Hists.png")
 
 # Calculate z-value
 z = (0.189 - 0.133) / referees_totals_over15["Career - Red Cards Per Game"].std()
+
+print("Complete.")
